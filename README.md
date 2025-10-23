@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -57,8 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
