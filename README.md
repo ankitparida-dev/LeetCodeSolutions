@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
+| [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
