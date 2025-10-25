@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2752-sum-multiples) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
