@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
+| [1289-day-of-the-week](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1289-day-of-the-week) |
 | [1500-count-largest-group](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2238-a-number-after-a-double-reversal) |
