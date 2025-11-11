@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1500-count-largest-group](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 ## Array
 |  |
 | ------- |
