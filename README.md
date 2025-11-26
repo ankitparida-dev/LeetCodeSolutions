@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1642-water-bottles) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
