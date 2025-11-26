@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## Brainteaser
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
@@ -109,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
