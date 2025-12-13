@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Number Theory
 |  |
