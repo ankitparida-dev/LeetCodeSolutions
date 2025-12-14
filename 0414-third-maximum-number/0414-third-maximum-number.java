@@ -9,7 +9,6 @@ class Solution {
                 (third != null && nums[i] == third)) {
                 continue;
             }
-
             if (max == null || nums[i] > max) {
                 third = second;
                 second = max;
