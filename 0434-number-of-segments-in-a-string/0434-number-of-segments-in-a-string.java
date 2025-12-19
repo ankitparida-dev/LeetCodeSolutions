@@ -1,10 +1,9 @@
 class Solution {
     public int countSegments(String s) {
-        s=s.trim();
-        if(s.isEmpty()){
-            return 0;
-        }
-        String[] words=s.split("\\s+");
-        return words.length;
+       String str[]=s.trim().split("\\s+");
+       if(s.trim().isEmpty()){
+        return 0;
+       }
+       return str.length;
     }
 }
