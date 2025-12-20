@@ -3,8 +3,8 @@ class Solution {
            if(s.length()!=goal.length()){
             return false;
            }
-           String s2=s+s;
-           if(s2.contains(goal)){
+           String str=s+s;
+           if(str.contains(goal)){
             return true;
            }
            else{
