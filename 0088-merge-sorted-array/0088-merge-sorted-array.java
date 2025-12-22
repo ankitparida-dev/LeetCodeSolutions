@@ -1,9 +1,9 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-      int merge[]=new int[m+n];
       int i=0,j=0,k=0;
+      int merge[]=new int[n+m];
       while(i<m && j<n){
-        if(nums1[i]<=nums2[j]){
+        if(nums1[i]<nums2[j]){
             merge[k++]=nums1[i++];
         }
         else{
@@ -11,12 +11,12 @@ class Solution {
         }
       }
       while(i<m){
-         merge[k++]=nums1[i++];
+        merge[k++]=nums1[i++];
       }
       while(j<n){
-         merge[k++]=nums2[j++];
+        merge[k++]=nums2[j++];
       }
-      for(int x=0;x<m+n;x++){
+      for(int x=0;x<n+m;x++){
         nums1[x]=merge[x];
       }
     }
