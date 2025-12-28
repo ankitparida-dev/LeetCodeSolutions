@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 ## Array
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
