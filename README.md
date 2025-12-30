@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
