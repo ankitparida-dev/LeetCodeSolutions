@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
