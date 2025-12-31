@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2469-convert-the-temperature](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2491-smallest-even-multiple](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
