@@ -1,14 +1,14 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
-        int divisible=0,notdivisible=0;
-        for(int i=1;i<=n;i++){
-            if(i%m==0){
-                divisible+=i;
-            }
-            else{
-                notdivisible+=i;
-            }
+       int d1=0,d2=0;
+       for(int i=1;i<=n;i++){
+        if(i%m==0){
+            d1+=i;
         }
-     return notdivisible-divisible;
+        else{
+            d2+=i;
+        }
+       }
+       return d2-d1;
     }
 }
