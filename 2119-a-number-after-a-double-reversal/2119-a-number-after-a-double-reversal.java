@@ -1,19 +1,14 @@
 class Solution {
     public boolean isSameAfterReversals(int num) {
-        int temp=num;
-        int reverse=0;
+        int temp=num,reverse=0,reverse2=0;
         while(temp>0){
-            int b=temp%10;
-            reverse=reverse*10+b;
+            reverse=reverse*10+temp%10;
             temp/=10;
         }
-        int doublereverse=0;
-        temp=num;
         while(reverse>0){
-            int b=reverse%10;
-            doublereverse=doublereverse*10+b;
+            reverse2=reverse2*10+reverse%10;
             reverse/=10;
         }
-        return doublereverse==num;
+        return reverse2==num;
     }
 }
