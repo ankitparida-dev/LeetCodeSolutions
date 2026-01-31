@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1500-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1642-water-bottles) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -163,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1500-count-largest-group](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1500-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
