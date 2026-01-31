@@ -1,18 +1,17 @@
 class Solution {
     public int findNumbers(int[] nums) {
-       int evendigits=0;
+       int count=0;
        for(int i=0;i<nums.length;i++){
-        int temp=nums[i];
-        int count=0;
-        while(temp>0){
+         int temp=nums[i],count2=0;
+         while(temp>0){
             int b=temp%10;
             temp/=10;
+            count2++;
+         }
+         if(count2%2==0){
             count++;
-        }
-        if(count%2==0){
-            evendigits++;
-        }
+         }
        }
-       return evendigits;
+       return count;
     }
 }
