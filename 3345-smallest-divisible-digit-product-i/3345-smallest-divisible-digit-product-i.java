@@ -1,11 +1,10 @@
 class Solution {
     public int smallestNumber(int n, int t) {
        while(true){
-        int product=1;
         int temp=n;
+        int product=1;
         while(temp>0){
-            int b=temp%10;
-            product*=b;
+            product*=temp%10;
             temp/=10;
         }
         if(product%t==0){
