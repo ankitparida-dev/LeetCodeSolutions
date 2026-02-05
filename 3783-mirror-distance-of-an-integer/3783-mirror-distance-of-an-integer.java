@@ -1,16 +1,14 @@
 class Solution {
     public int mirrorDistance(int n) {
-        int reverse=0;
-        int temp=n;
+        int rev=0,temp=n;
         while(temp>0){
-            int b=temp%10;
-            reverse=reverse*10+b;
+            rev=rev*10+temp%10;
             temp/=10;
         }
-        int diff=n-reverse;
-        if(diff<0){
-            return -(diff);
+        int sub=n-rev;
+        if(sub<0){
+            return -(sub);
         }
-        return diff;
+        return sub;
     }
 }
