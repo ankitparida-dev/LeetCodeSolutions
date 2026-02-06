@@ -5,9 +5,8 @@ class Solution {
             sum+=nums[i];
             int temp=nums[i];
             while(temp>0){
-                int b=temp%10;
+                sum2+=temp%10;
                 temp/=10;
-                sum2+=b;
             }
         }
         return sum-sum2;
