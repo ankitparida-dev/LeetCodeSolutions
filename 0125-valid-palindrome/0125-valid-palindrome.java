@@ -1,20 +1,13 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        s = s.toLowerCase(); 
-        Stack<Character> st = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (Character.isLetterOrDigit(c)) {
-                st.push(c);
+    public boolean isPalindrome(String s) { 
+        s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
+        int i = 0, j = s.length() - 1;
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) {
+                return false;
             }
-        }
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (Character.isLetterOrDigit(c)) {
-                if (c != st.pop()) {
-                    return false;
-                }
-            }
+            i++;
+            j--;
         }
         return true;
     }
