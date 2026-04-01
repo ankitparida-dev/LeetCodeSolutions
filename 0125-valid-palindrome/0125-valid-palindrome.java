@@ -1,14 +1,19 @@
+import java.util.*;
+
 class Solution {
-    public boolean isPalindrome(String s) { 
-       s=s.toLowerCase().replaceAll("[^a-z0-9]","");
-       int i=0,j=s.length()-1;
-       while(i<j){
-        if(s.charAt(i)!=s.charAt(j)){
-            return false;
+    public boolean isPalindrome(String s) {
+        Deque<Character> dq = new ArrayDeque<>();
+        for (char c : s.toCharArray()) {
+            if (Character.isLetterOrDigit(c)) {
+                dq.addLast(Character.toLowerCase(c));
+            }
         }
-        i++;
-        j--;
-       }
-       return true;
+        while (dq.size() > 1) {
+            if (!dq.removeFirst().equals(dq.removeLast())) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 }
