@@ -1,19 +1,25 @@
-import java.util.*;
-
 class Solution {
     public boolean isPalindrome(String s) {
-        Deque<Character> dq = new ArrayDeque<>();
-        for (char c : s.toCharArray()) {
-            if (Character.isLetterOrDigit(c)) {
-                dq.addLast(Character.toLowerCase(c));
-            }
+        return solve(s, 0, s.length() - 1);
+    }
+
+    private boolean solve(String s, int i, int j) {
+       
+        if (i >= j) return true;
+
+        if (!Character.isLetterOrDigit(s.charAt(i))) {
+            return solve(s, i + 1, j);
         }
-        while (dq.size() > 1) {
-            if (!dq.removeFirst().equals(dq.removeLast())) {
-                return false;
-            }
+        if (!Character.isLetterOrDigit(s.charAt(j))) {
+            return solve(s, i, j - 1);
         }
-        
-        return true;
+
+        if (Character.toLowerCase(s.charAt(i)) != 
+            Character.toLowerCase(s.charAt(j))) {
+            return false;
+        }
+
+        // move अंदर
+        return solve(s, i + 1, j - 1);
     }
 }
