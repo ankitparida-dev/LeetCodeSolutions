@@ -1,11 +1,15 @@
 class Solution {
     public String reverseWords(String s) {
-     String[] words=s.split(" ");
-     StringBuilder sb=new StringBuilder();
-     for(int i=0;i<words.length;i++){
-        String word=words[i];
-        sb.append(new StringBuilder(word).reverse().toString()).append(" ");
-     }
-     return sb.toString().trim();
+        int space = s.indexOf(" ");
+        if (space == -1) {
+            return reverse(s);
+        }
+        String first = s.substring(0, space);
+        return reverse(first) + " " + reverseWords(s.substring(space + 1));
+    }
+
+    private String reverse(String str) {
+        if (str.length() <= 1) return str;
+        return reverse(str.substring(1)) + str.charAt(0);
     }
 }
