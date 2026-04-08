@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
