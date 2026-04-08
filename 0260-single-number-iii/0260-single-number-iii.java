@@ -5,10 +5,10 @@ class Solution {
         for(int i=0;i<n;i++){
             xor^=nums[i];
         }
-        int rightmost=xor & -xor;
+        int rightmost=xor&(-xor);
         int b1=0,b2=0;
         for(int i=0;i<n;i++){
-            if((nums[i]&rightmost)!=0){
+            if((rightmost&nums[i])!=0){
                 b1^=nums[i];
             }
             else{
