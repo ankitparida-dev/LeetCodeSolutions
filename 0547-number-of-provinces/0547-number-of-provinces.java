@@ -22,7 +22,6 @@ class Solution {
              neighbor++) {
             if (isConnected[city][neighbor] == 1
                     && !visited[neighbor]) {
-
                 dfs(neighbor, isConnected, visited);
             }
         }
