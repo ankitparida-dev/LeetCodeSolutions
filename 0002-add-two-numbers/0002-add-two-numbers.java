@@ -25,7 +25,7 @@ class Solution {
             ListNode temp=new ListNode(sum%10);
             carry=sum/10;
             if(head==null){
-                head=tail=temp;
+                tail=head=temp;
             }
             else{
                 tail.next=temp;
