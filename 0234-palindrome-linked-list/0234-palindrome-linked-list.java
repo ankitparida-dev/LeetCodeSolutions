@@ -10,7 +10,7 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode slow=head,fast=head,prev=null,next;
+        ListNode fast=head,slow=head,prev=null,next;
         while(fast!=null && fast.next!=null){
             fast=fast.next.next;
             next=slow.next;
