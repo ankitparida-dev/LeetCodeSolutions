@@ -5,9 +5,7 @@ class Solution {
         }
         return helper(n-1,b,a+b);
     }
-    
     public int fib(int n) {
-       return helper(n,0,1);
-     
+        return helper(n,0,1);
     }
 }
