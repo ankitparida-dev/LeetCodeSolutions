@@ -1,15 +1,20 @@
 class Solution {
+    public int product(int n){
+        if(n==0){
+            return 1;
+        }
+        return product(n/10)*(n%10);
+    }
+    public int sumofDigits(int n){
+        if(n==0){
+            return 0;
+        }
+        return sumofDigits(n/10)+(n%10);
+    }
     public int subtractProductAndSum(int n) {
-        int temp=n,sum=0,product=1;
-        while(temp>0){
-            sum+=temp%10;
-            temp/=10;
-        }
-        int temp2=n;
-        while(temp2>0){
-            product*=temp2%10;
-            temp2/=10;
-        }
-        return product-sum;
+        int result1=product(n);
+        int result2=sumofDigits(n);
+        return result1-result2;
+        
     }
 }
