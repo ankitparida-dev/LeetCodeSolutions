@@ -1,5 +1,5 @@
 class Solution {
-    public static int reverse(int num,int rev){
+    public int reverse(int num,int rev){
         if(num==0){
             return rev;
         }
@@ -8,6 +8,6 @@ class Solution {
     public boolean isSameAfterReversals(int num) {
         int rev=reverse(num,0);
         int drev=reverse(rev,0);
-        return num==drev;
+        return drev==num;
     }
 }
