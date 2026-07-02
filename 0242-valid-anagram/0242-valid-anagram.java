@@ -6,8 +6,7 @@ class Solution {
         }
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            int count=map.getOrDefault(ch,0)+1;
-            map.put(ch,count);
+            map.put(ch,map.getOrDefault(ch,0)+1);
         }
         for(int i = 0; i < t.length(); i++) {
             char ch = t.charAt(i);
@@ -20,8 +19,7 @@ class Solution {
             else{
                 map.put(ch,count);
             }      
-            }
-           
+            }       
             
         }
         return map.isEmpty();
