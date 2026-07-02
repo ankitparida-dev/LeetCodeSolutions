@@ -9,20 +9,21 @@ class Solution {
             set.add(ele);
         }
         for(int ele:set){
-            int current=ele;
             int length=1;
-            if(!(set.contains(ele-1))){
-            while(true){
-                current++;
-                if(!(set.contains(current))){
-                    break;
+            int current=ele;
+            if(!set.contains(ele-1)){
+                while(true){
+                    current++;
+                    if(!set.contains(current)){
+                        break;
+                    }
+                    length++;
                 }
-                length++;
+
             }
             if(length>maxlen){
                 maxlen=length;
             }
-         }
         }
         return maxlen;
     }
