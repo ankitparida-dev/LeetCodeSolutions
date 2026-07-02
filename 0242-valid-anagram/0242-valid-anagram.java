@@ -11,17 +11,19 @@ class Solution {
         }
         for(int i = 0; i < t.length(); i++) {
             char ch = t.charAt(i);
-            if(!map.containsKey(ch)) {
-                return false;
-            }
-            int count = map.get(ch) - 1;
-            if(count == 0) {
+            if(map.containsKey(ch)) {
+                int count=map.get(ch);
+                count--;
+                if(count==0){
                 map.remove(ch);
-            } else {
-                map.put(ch, count);
             }
+            else{
+                map.put(ch,count);
+            }      
+            }
+           
+            
         }
-
         return map.isEmpty();
     }
 }
