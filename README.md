@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
