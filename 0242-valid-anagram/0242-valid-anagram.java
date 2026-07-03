@@ -7,6 +7,8 @@ class Solution {
        char[] a=t.toCharArray();
        Arrays.sort(b);
        Arrays.sort(a);
-       return Arrays.equals(a,b);
+       String s1=String.valueOf(b);
+       String s2=String.valueOf(a);
+       return s1.equals(s2);
     }
 }
