@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0338-counting-bits) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
