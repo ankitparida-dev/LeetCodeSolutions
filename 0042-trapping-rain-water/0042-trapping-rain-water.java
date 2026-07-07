@@ -14,7 +14,7 @@ class Solution {
                 left++;
             }
             else{
-                 if(height[right]>=rightmax){
+                if(height[right]>=rightmax){
                     rightmax=height[right];
                 }
                 else{
