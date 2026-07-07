@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
