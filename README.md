@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Queue
 |  |
 | ------- |
@@ -488,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
