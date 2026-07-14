@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1500-count-largest-group](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -483,5 +486,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
