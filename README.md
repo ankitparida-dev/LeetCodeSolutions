@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0766-toeplitz-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
