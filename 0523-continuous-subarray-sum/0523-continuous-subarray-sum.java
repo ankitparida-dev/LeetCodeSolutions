@@ -12,7 +12,7 @@ class Solution {
                 }
             }
             else{
-            map.put(rem,i);
+                map.put(rem,i);
             }
         }
         return false;
