@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1500-count-largest-group](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Queue
 |  |
