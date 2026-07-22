@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
