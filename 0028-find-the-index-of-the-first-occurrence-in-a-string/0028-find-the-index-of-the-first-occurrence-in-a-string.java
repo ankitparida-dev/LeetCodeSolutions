@@ -1,68 +1,31 @@
 class Solution {
-
-    public int[] computeLps(String s) {
-
-        int[] lps = new int[s.length()];
-
-        int i = 1;
-        int j = 0;
-
-        while(i < s.length()) {
-
-            if(s.charAt(i) == s.charAt(j)) {
-                j++;
-                lps[i] = j;
-                i++;
-            }
-            else {
-
-                if(j != 0) {
-                    j = lps[j - 1];
-                }
-                else {
-                    lps[i] = 0;
-                    i++;
-                }
-            }
-        }
-
-        return lps;
-    }
-
     public int strStr(String haystack, String needle) {
-
         if(needle.length() == 0) {
             return 0;
         }
+        String str = needle + "$" + haystack;
+        int[] z = new int[str.length()];
+        int left = 0;
+        int right = 0;
 
-        int[] lps = computeLps(needle);
-
-        int i = 0;
-        int j = 0;
-
-        while(i < haystack.length()) {
-
-            if(haystack.charAt(i) == needle.charAt(j)) {
-                i++;
-                j++;
+        for(int i = 1; i < str.length(); i++) {
+            if(i <= right) {
+                z[i] = Math.min(right - i + 1, z[i - left]);
             }
+            while(i + z[i] < str.length() &&
+                  str.charAt(z[i]) == str.charAt(i + z[i])) {
 
-            if(j == needle.length()) {
-                return i - j;
+                z[i]++;
             }
-
-            else if(i < haystack.length() &&
-                    haystack.charAt(i) != needle.charAt(j)) {
-
-                if(j != 0) {
-                    j = lps[j - 1];
-                }
-                else {
-                    i++;
-                }
+            if(i + z[i] - 1 > right) {
+                left = i;
+                right = i + z[i] - 1;
+            }
+            // Pattern found
+            if(z[i] == needle.length()) {
+                return i - needle.length() - 1;
             }
         }
-
         return -1;
     }
 }
