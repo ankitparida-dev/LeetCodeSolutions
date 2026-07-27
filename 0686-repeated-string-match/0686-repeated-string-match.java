@@ -1,60 +1,66 @@
 class Solution {
-    static boolean kmp(String s,String p){
-        int lps[]=new int[p.length()];
-        int i=1;
-        int j=0;
-        while(i<p.length()){
-            if(p.charAt(i)==p.charAt(j)){
-                lps[i]=j+1;
-                i++;
-                j++;
+
+    static boolean zAlgorithm(String text, String pattern) {
+
+        String str = pattern + "$" + text;
+
+        int[] z = new int[str.length()];
+
+        int left = 0;
+        int right = 0;
+
+        for(int i = 1; i < str.length(); i++) {
+
+            if(i <= right) {
+                z[i] = Math.min(right - i + 1, z[i - left]);
             }
-            else{
-                if(j!=0){
-                    j=lps[j-1];
-                }
-                else{
-                    i++;
-                }
+
+            while(i + z[i] < str.length() &&
+                  str.charAt(z[i]) == str.charAt(i + z[i])) {
+
+                z[i]++;
             }
-        }
-        i=0;
-        j=0;
-        while(i<s.length()){
-            if(s.charAt(i)==p.charAt(j)){
-                i++;
-                j++;
+
+            if(i + z[i] - 1 > right) {
+                left = i;
+                right = i + z[i] - 1;
             }
-            if(j==p.length()){
+
+            // Pattern found
+            if(z[i] == pattern.length()) {
                 return true;
             }
-            else if(i<s.length() && s.charAt(i)!=p.charAt(j)){
-                if(j!=0){
-                    j=lps[j-1];
-                }
-                else{
-                    i++;
-                }
-            }
         }
+
         return false;
     }
+
+
     public int repeatedStringMatch(String a, String b) {
-        int count=0;
-        StringBuilder sb=new StringBuilder();
-        while(sb.length()<b.length()){
+
+        StringBuilder sb = new StringBuilder();
+
+        int count = 0;
+
+        // Repeat a until length >= b
+        while(sb.length() < b.length()) {
             sb.append(a);
             count++;
         }
-        if(kmp(sb.toString(),b)){
+
+        // Check current string
+        if(zAlgorithm(sb.toString(), b)) {
             return count;
         }
+
+        // Check one extra repetition
         sb.append(a);
         count++;
-        if(kmp(sb.toString(),b)){
+
+        if(zAlgorithm(sb.toString(), b)) {
             return count;
         }
+
         return -1;
-        
     }
 }
