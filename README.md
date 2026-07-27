@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Array
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Stack
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -525,9 +528,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
