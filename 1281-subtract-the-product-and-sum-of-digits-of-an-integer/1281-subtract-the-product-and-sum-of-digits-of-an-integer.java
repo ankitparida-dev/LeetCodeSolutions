@@ -3,18 +3,18 @@ class Solution {
         if(n==0){
             return 1;
         }
-        return product(n/10)*(n%10);
+        return (n%10)*product(n/10);
     }
-    public int sumofDigits(int n){
+    public int sumdigits(int n){
         if(n==0){
             return 0;
         }
-        return sumofDigits(n/10)+(n%10);
+        return (n%10)+sumdigits(n/10);
     }
     public int subtractProductAndSum(int n) {
-        int result1=product(n);
-        int result2=sumofDigits(n);
-        return result1-result2;
+       int result1=product(n);
+       int result2=sumdigits(n);
+       return result1-result2;
         
     }
 }
