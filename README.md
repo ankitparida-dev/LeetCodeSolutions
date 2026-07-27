@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
