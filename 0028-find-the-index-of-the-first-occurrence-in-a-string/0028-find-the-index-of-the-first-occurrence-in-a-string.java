@@ -1,31 +1,60 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        if(needle.length() == 0) {
+
+        int n = haystack.length();
+        int m = needle.length();
+
+        if(m == 0) {
             return 0;
         }
-        String str = needle + "$" + haystack;
-        int[] z = new int[str.length()];
-        int left = 0;
-        int right = 0;
 
-        for(int i = 1; i < str.length(); i++) {
-            if(i <= right) {
-                z[i] = Math.min(right - i + 1, z[i - left]);
-            }
-            while(i + z[i] < str.length() &&
-                  str.charAt(z[i]) == str.charAt(i + z[i])) {
+        if(m > n) {
+            return -1;
+        }
 
-                z[i]++;
+        int base = 26;
+
+        long patternHash = 0;
+        long windowHash = 0;
+        long power = 1;
+
+        // base^(m-1)
+        for(int i = 0; i < m - 1; i++) {
+            power *= base;
+        }
+
+        // Initial hashes
+        for(int i = 0; i < m; i++) {
+            patternHash = patternHash * base + needle.charAt(i);
+            windowHash = windowHash * base + haystack.charAt(i);
+        }
+
+        for(int i = 0; i <= n - m; i++) {
+
+            // Hash match
+            if(patternHash == windowHash) {
+
+                int j = 0;
+
+                while(j < m &&
+                      haystack.charAt(i + j) == needle.charAt(j)) {
+                    j++;
+                }
+
+                if(j == m) {
+                    return i;
+                }
             }
-            if(i + z[i] - 1 > right) {
-                left = i;
-                right = i + z[i] - 1;
-            }
-            // Pattern found
-            if(z[i] == needle.length()) {
-                return i - needle.length() - 1;
+
+            // Rolling hash
+            if(i < n - m) {
+
+                windowHash =
+                    (windowHash - haystack.charAt(i) * power) * base
+                    + haystack.charAt(i + m);
             }
         }
+
         return -1;
     }
 }
