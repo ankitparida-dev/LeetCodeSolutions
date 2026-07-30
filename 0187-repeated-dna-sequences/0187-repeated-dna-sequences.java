@@ -1,45 +1,55 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
 
-        Map<Character, Integer> map = new HashMap<>();
-
-        map.put('A', 0);
-        map.put('C', 1);
-        map.put('G', 2);
-        map.put('T', 3);
-
-        int hash = 0;
-
-        Set<Integer> seen = new HashSet<>();
-        Set<String> repeated = new HashSet<>();
-
         List<String> ans = new ArrayList<>();
 
-        for (int i = 0; i < s.length(); i++) {
+        if (s.length() < 10) {
+            return ans;
+        }
 
-            // Add current character (2 bits)
-            hash = (hash << 2) | map.get(s.charAt(i));
+        Map<Character, Integer> map = new HashMap<>();
+        map.put('A', 1);
+        map.put('C', 2);
+        map.put('G', 3);
+        map.put('T', 4);
 
-            // Keep only last 20 bits
-            hash = hash & ((1 << 20) - 1);
+        long base = 5;
+        long power = 1;
 
+        for (int i = 0; i < 9; i++) {
+            power *= base;
+        }
 
-            if (i >= 9) {
+        long hash = 0;
 
-                String sub = s.substring(i - 9, i + 1);
+        // First window hash
+        for (int i = 0; i < 10; i++) {
+            hash = hash * base + map.get(s.charAt(i));
+        }
 
-                if (seen.contains(hash)) {
+        Set<Long> seen = new HashSet<>();
+        Set<String> repeated = new HashSet<>();
 
-                    if (!repeated.contains(sub)) {
-                        repeated.add(sub);
-                        ans.add(sub);
-                    }
+        seen.add(hash);
 
-                } else {
-                    seen.add(hash);
-                }
+        for (int i = 10; i < s.length(); i++) {
+
+            // Remove leftmost character
+            hash -= map.get(s.charAt(i - 10)) * power;
+
+            // Shift and add new character
+            hash = hash * base + map.get(s.charAt(i));
+
+            String sub = s.substring(i - 9, i + 1);
+
+            if (seen.contains(hash)) {
+                repeated.add(sub);
+            } else {
+                seen.add(hash);
             }
         }
+
+        ans.addAll(repeated);
 
         return ans;
     }
