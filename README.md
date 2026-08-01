@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0523-continuous-subarray-sum) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
