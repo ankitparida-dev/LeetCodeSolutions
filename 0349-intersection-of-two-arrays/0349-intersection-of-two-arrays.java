@@ -10,11 +10,11 @@ class Solution {
             set2.add(x);
         }
        }
-       int c[]=new int[set2.size()];
+       int result[]=new int[set2.size()];
        int i=0;
        for(int x:set2){
-        c[i++]=x;
+        result[i++]=x;
        }
-       return c;
+       return result;
     }
 }
