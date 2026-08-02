@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## Simulation
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
