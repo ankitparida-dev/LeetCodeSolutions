@@ -3,6 +3,6 @@ class Solution {
         if(n%2==0){
             return n;
         }
-        return n*2;
+       return n*2;
     }
 }
