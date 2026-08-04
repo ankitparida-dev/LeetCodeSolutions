@@ -1,5 +1,5 @@
 class Solution {
-    public static String reverse(String s){
+    public String reverse(String s){
         return new StringBuilder(s).reverse().toString();
     }
     public boolean isPalindrome(String s) {
