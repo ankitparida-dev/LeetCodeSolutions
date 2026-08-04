@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
