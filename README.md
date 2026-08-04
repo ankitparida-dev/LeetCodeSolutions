@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [1044-longest-duplicate-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Stack
 |  |
