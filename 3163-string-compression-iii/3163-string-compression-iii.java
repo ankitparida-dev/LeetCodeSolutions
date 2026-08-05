@@ -4,8 +4,8 @@ class Solution {
         int i=0;
         int n=word.length();
         while(i<n){
-            char ch=word.charAt(i);
             int count=0;
+            char ch=word.charAt(i);
             while(i<n && word.charAt(i)==ch && count<9){
                 count++;
                 i++;
