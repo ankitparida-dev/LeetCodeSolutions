@@ -5,17 +5,17 @@ class Solution {
             StringBuilder sb=new StringBuilder();
             int i=0;
             while(i<result.length()){
-                 int count=0;
-                 char ch=result.charAt(i);
-                 while(i<result.length() && ch==result.charAt(i)){
+                int count=0;
+                char ch=result.charAt(i);
+                while(i<result.length() && result.charAt(i)==ch){
                     count++;
                     i++;
-                 }
-                 sb.append(count);
-                 sb.append(ch);
+                }
+               sb.append(count);
+               sb.append(ch);
             }
             result=sb.toString();
         }
-         return result;
+        return result;
     }
 }
