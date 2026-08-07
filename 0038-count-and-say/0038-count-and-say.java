@@ -2,17 +2,17 @@ class Solution {
     public String countAndSay(int n) {
         String result="1";
         for(int k=1;k<n;k++){
-            StringBuilder sb=new StringBuilder();
             int i=0;
+            StringBuilder sb=new StringBuilder();
             while(i<result.length()){
-                int count=0;
                 char ch=result.charAt(i);
-                while(i<result.length() && result.charAt(i)==ch){
+                int count=0;
+                while(i<result.length() && ch==result.charAt(i)){
                     count++;
                     i++;
                 }
-               sb.append(count);
-               sb.append(ch);
+                sb.append(count);
+                sb.append(ch);
             }
             result=sb.toString();
         }
