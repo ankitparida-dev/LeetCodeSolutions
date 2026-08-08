@@ -4,18 +4,18 @@ class Solution {
         int i=0;
         int n=chars.length;
         while(i<n){
+            char c=chars[i];
             int count=0;
-            char ch=chars[i];
-            while(i<n && chars[i]==ch){
+            while(i<n && chars[i]==c){
                 count++;
                 i++;
             }
-            chars[len]=ch;
+            chars[len]=c;
             len++;
             if(count>1){
                 String s=Integer.toString(count);
-                for(char c:s.toCharArray()){
-                    chars[len]=c;
+                for(char ch:s.toCharArray()){
+                    chars[len]=ch;
                     len++;
                 }
             }
