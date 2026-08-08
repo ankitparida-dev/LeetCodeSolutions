@@ -1,14 +1,17 @@
 class Solution {
     
-    public String helper(long n){
+    public void helper(long n,StringBuilder sb){
         if(n==0){
-            return "";
+            return;
         }
+        helper(n/16,sb);
         long rem=n%16;
         if(rem<10){
-            return helper(n/16)+rem;
+         sb.append(rem);
         }
-        return helper(n/16)+(char)('a'+rem-10);
+        else{
+            sb.append((char)('a'+rem-10));
+        }
     }
     public String toHex(int num) {
        if(num==0){
@@ -18,6 +21,8 @@ class Solution {
        if(n<0){
         n+=1L<<32;
        }
-       return helper(n);
+       StringBuilder sb=new StringBuilder();
+       helper(n,sb);
+       return sb.toString();
     }
 }
