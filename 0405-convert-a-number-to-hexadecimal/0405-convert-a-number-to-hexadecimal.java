@@ -1,15 +1,14 @@
 class Solution {
-    
     public void helper(long n,StringBuilder sb){
         if(n==0){
             return;
         }
-        helper(n/16,sb);
+       
         long rem=n%16;
+        helper(n/16,sb);
         if(rem<10){
-         sb.append(rem);
-        }
-        else{
+           sb.append(rem);
+        }else{
             sb.append((char)('a'+rem-10));
         }
     }
