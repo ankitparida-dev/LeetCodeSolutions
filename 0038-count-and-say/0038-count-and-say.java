@@ -1,25 +1,22 @@
 class Solution {
     public String countAndSay(int n) {
-       String prev="1";
-       if(n==1){
-        return "1";
-       }
-       for(int i=2;i<=n;i++){
-        StringBuilder sb=new StringBuilder();
-        int k=0;
-        while(k<prev.length()){
-        char ch=prev.charAt(k);
-        int count=0;
-        while(k<prev.length() && prev.charAt(k)==ch){
-            count++;
-            k++;
-        }
-        sb.append(count);
-        sb.append(ch);
-       }
-       prev=sb.toString();
-       }
-       return prev;
+      String result="1";
+      for(int k=1;k<n;k++){
+         StringBuilder sb=new StringBuilder();
+         int i=0;
+         while(i<result.length()){
+            int count=0;
+            char c=result.charAt(i);
+            while(i<result.length() && c==result.charAt(i)){
+                count++;
+                i++;
+            }
+            sb.append(count);
+            sb.append(c);
+         }
+         result=sb.toString();
+      }
+      return result;
     }
     
 }
