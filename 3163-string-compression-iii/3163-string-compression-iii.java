@@ -6,7 +6,7 @@ class Solution {
        while(i<n){
         int count=0;
         char c=word.charAt(i);
-        while(i<n && word.charAt(i)==c && count<9){
+        while(i<n && c==word.charAt(i) && count<9){
             count++;
             i++;
         }
