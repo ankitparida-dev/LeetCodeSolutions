@@ -4,9 +4,9 @@ class Solution {
         int i=0;
         int n=chars.length;
         while(i<n){
-            char c=chars[i];
             int count=0;
-            while(i<n && chars[i]==c){
+            char c=chars[i];
+            while(i<n && c==chars[i]){
                 count++;
                 i++;
             }
