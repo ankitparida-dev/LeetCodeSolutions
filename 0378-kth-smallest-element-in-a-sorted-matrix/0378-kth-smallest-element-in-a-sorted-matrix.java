@@ -5,15 +5,14 @@ class Solution {
        for(int i=0;i<n;i++){
         pq.offer(new int[]{matrix[i][0],i,0});
        }
-        while(--k>0){
-            int curr[]=pq.poll();
-            int row=curr[1];
-            int col=curr[2];
-            if(col+1<n){
-                pq.offer(new int[]{matrix[row][col+1],row,col+1});
-            }
+       while(--k>0){
+        int curr[]=pq.poll();
+        int row=curr[1];
+        int col=curr[2];
+        if(col+1<n){
+            pq.offer(new int[]{matrix[row][col+1],row,col+1});
         }
-       
+       }
        return pq.peek()[0];
     }
 }
