@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 ## Design
 |  |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
