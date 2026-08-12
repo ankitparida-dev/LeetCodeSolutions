@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
 | ------- |
