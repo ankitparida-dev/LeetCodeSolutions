@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3024-type-of-triangle) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
