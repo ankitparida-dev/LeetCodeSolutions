@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3163-string-compression-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3163-string-compression-iii) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
