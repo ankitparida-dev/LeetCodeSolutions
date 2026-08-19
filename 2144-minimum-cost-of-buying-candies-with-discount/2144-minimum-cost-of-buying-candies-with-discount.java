@@ -1,7 +1,7 @@
 class Solution {
     public int minimumCost(int[] cost) {
         int count=0;
-        int totalcost=0;
+        int mincost=0;
         Arrays.sort(cost);
         for(int i=cost.length-1;i>=0;i--){
             count++;
@@ -9,8 +9,8 @@ class Solution {
                 count=0;
                 continue;
             }
-          totalcost+=cost[i];
+            mincost+=cost[i];
         }
-        return totalcost;
+        return mincost;
     }
 }
