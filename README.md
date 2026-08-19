@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3024-type-of-triangle) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
