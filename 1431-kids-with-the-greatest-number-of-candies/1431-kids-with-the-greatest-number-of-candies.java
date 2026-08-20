@@ -1,14 +1,13 @@
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+        List <Boolean> res=new ArrayList <>();
         int max1=0;
-        List <Boolean> ans=new ArrayList <>();
-        for(int num:candies){
-             max1=Math.max(num,max1);
+        for(int i=0;i<candies.length;i++){
+            max1=Math.max(max1,candies[i]);
         }
-        for(int num:candies){
-            ans.add(num+extraCandies>=max1);
+        for(int i=0;i<candies.length;i++){
+            res.add(candies[i]+extraCandies>=max1);
         }
-        return ans;
-
+        return res;
     }
 }
