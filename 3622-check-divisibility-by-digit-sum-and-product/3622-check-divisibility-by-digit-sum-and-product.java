@@ -1,19 +1,19 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-        int temp=n,sum=0,product=1;
+        int sum=0,product=1;
+        int temp=n;
         while(temp>0){
-            sum+=temp%10;
+            int b=temp%10;
+            sum+=b;
             temp/=10;
         }
-        int temp2=n;
-        while(temp2>0){
-            product*=temp2%10;
-            temp2/=10;
+        temp=n;
+        while(temp>0){
+            int b=temp%10;
+            product*=b;
+            temp/=10;
         }
-        int total=sum+product;
-        if(n%total==0){
-            return true;
-        }
-        return false;
+        int sum2=sum+product;
+        return n%sum2==0;
     }
 }
