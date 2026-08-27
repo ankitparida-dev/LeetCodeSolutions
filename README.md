@@ -691,9 +691,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
