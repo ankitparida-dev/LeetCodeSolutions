@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -712,4 +713,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
