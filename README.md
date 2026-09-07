@@ -722,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1025-divisor-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
