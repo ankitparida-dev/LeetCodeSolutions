@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1995-count-special-quadruplets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
+| [1995-count-special-quadruplets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1995-count-special-quadruplets) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1952-three-divisors) |
+| [1995-count-special-quadruplets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
