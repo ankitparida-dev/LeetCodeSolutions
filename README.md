@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3163-string-compression-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3163-string-compression-iii) |
 | [3340-check-balanced-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3340-check-balanced-string) |
 ## Stack
