@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3163-string-compression-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3163-string-compression-iii) |
 | [3340-check-balanced-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
