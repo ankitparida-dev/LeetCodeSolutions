@@ -1,9 +1,30 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        HashMap <Integer,Integer> map=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],i);
+    public int search(int[] arr, int target) {
+        int n=arr.length;
+        int low=0;
+        int high=n-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(arr[mid]==target){
+                return mid;
+            }
+            else if(arr[mid]>=arr[low]){
+                if(target>=arr[low] && target<arr[mid]){
+                    high=mid-1;
+                }
+                else{
+                    low=mid+1;
+                }
+            }
+            else{
+               if(target>arr[mid] && target<=arr[high]){
+                    low=mid+1;
+                }
+                else{
+                    high=mid-1;
+                } 
+            }
         }
-        return map.getOrDefault(target,-1);
+        return -1;
     }
 }
