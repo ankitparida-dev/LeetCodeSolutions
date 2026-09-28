@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1025-divisor-game) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm
 |  |
