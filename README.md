@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
@@ -514,11 +518,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
@@ -527,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -610,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
