@@ -1,9 +1,9 @@
 class Solution {
-    public long reverse2(long num,long rev){
-        if(num==0){
+    public long reverse2(long n,long rev){
+        if(n==0){
             return rev;
         }
-        return reverse2(num/10,rev*10+num%10);
+        return reverse2(n/10,rev*10+n%10);
     }
     public int reverse(int x) {
          long rev=reverse2(x,0);
