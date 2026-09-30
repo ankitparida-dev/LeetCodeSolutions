@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0202-happy-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0137-single-number-ii) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
