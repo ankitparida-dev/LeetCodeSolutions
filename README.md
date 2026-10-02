@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0507-perfect-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 ## Backtracking
 |  |
@@ -811,4 +815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
