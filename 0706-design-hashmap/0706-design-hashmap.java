@@ -6,11 +6,11 @@ class MyHashMap {
     }
     
     public void put(int key, int value) {
-        map[key]=value;
+      map[key]=value;
     }
     
     public int get(int key) {
-        return map[key];
+       return map[key];
     }
     
     public void remove(int key) {
