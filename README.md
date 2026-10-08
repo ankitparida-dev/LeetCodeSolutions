@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1044-longest-duplicate-substring) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1392-longest-happy-prefix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1392-longest-happy-prefix) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm
 |  |
