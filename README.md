@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0523-continuous-subarray-sum) |
