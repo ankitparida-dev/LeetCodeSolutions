@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -889,4 +891,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
