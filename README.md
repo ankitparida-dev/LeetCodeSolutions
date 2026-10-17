@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
