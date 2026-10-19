@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
+| [3136-valid-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3136-valid-word) |
 | [3163-string-compression-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3163-string-compression-iii) |
 | [3340-check-balanced-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
