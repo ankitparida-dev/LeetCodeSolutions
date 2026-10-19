@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1044-longest-duplicate-substring) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Array
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
