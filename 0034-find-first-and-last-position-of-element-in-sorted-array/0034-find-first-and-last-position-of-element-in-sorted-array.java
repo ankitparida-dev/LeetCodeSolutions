@@ -1,43 +1,45 @@
 class Solution {
-    public static int firstOccurence(int[] nums,int target){
-        int low=0,high=nums.length-1;
-        int result=-1;
+    public static int firstpoistion(int[] arr,int target){
+        int low=0;
+        int high=arr.length-1;
+        int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-              result=mid;
-              high=mid-1;
+            if(arr[mid]==target){
+                ans=mid;
+                high=mid-1;
             }
-            else if(nums[mid]<target){
+            else if(arr[mid]<target){
                 low=mid+1;
             }
             else{
                 high=mid-1;
             }
         }
-       return result;
+        return ans;
     }
-    public static int lastOccurence(int[] nums,int target){
-        int low=0,high=nums.length-1;
-        int result=-1;
+    public static int lastpoistion(int[] arr,int target){
+       int low=0;
+        int high=arr.length-1;
+        int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-              result=mid;
-              low=mid+1;
+            if(arr[mid]==target){
+                ans=mid;
+                low=mid+1;
             }
-            else if(nums[mid]<target){
+            else if(arr[mid]<target){
                 low=mid+1;
             }
             else{
                 high=mid-1;
             }
         }
-       return result;
+        return ans;
     }
-    public int[] searchRange(int[] nums, int k) {
-        int res1=firstOccurence(nums,k);
-        int res2=lastOccurence(nums,k);
-        return new int[]{res1,res2};
+    public int[] searchRange(int[] nums, int target) {
+        int first=firstpoistion(nums,target);
+        int second=lastpoistion(nums,target);
+        return new int[]{first,second};
     }
 }
