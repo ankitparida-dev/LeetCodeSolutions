@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2409-count-days-spent-together](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [3136-valid-word](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3136-valid-word) |
 | [3163-string-compression-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3163-string-compression-iii) |
