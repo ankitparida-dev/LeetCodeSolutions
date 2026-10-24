@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -915,9 +919,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
