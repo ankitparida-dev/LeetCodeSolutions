@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
