@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1044-longest-duplicate-substring) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
+| [0729-my-calendar-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
@@ -971,12 +974,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
+| [0729-my-calendar-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
+| [0729-my-calendar-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 ## Treap
 |  |
 | ------- |
