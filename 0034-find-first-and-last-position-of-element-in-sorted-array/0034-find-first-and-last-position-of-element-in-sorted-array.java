@@ -1,47 +1,45 @@
 class Solution {
-    public int firstPoistion(int[] nums,int target){
-        int n=nums.length;
-        int low=0;
-        int high=n-1;
-        int ans=-1;
-        while(low<=high){
+    public int firstPoistion(int[] arr,int target){
+          int ans=-1;
+          int low=0;
+          int high=arr.length-1;
+          while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
+            if(arr[mid]==target){
                 ans=mid;
                 high=mid-1;
             }
-            else if(nums[mid]<target){
+            else if(arr[mid]<target){
                 low=mid+1;
             }
             else{
                 high=mid-1;
             }
-        }
-     return ans;
+          }
+          return ans;
     }
-     public int lastPoistion(int[] nums,int target){
-        int n=nums.length;
-        int low=0;
-        int high=n-1;
-        int ans=-1;
-        while(low<=high){
+    public int lastPoistion(int[] arr,int target){
+         int ans=-1;
+          int low=0;
+          int high=arr.length-1;
+          while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
+            if(arr[mid]==target){
                 ans=mid;
                 low=mid+1;
             }
-            else if(nums[mid]<target){
+            else if(arr[mid]<target){
                 low=mid+1;
             }
             else{
                 high=mid-1;
             }
-        }
-     return ans;
+          }
+          return ans;
     }
     public int[] searchRange(int[] nums, int target) {
        int first=firstPoistion(nums,target);
-       int second=lastPoistion(nums,target);
-       return new int[]{first,second};
+       int last=lastPoistion(nums,target);
+       return new int[]{first,last};
     }
 }
