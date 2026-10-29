@@ -5,17 +5,17 @@ class Solution {
         int n=chars.length;
         while(i<n){
             int count=0;
-            char c=chars[i];
-            while(i<n && c==chars[i]){
+            char ch=chars[i];
+            while(i<n && ch==chars[i]){
                 count++;
                 i++;
             }
-            chars[len]=c;
+            chars[len]=ch;
             len++;
             if(count>1){
-                String s=Integer.toString(count);
-                for(char ch:s.toCharArray()){
-                    chars[len]=ch;
+                String st=Integer.toString(count);
+                for(char c:st.toCharArray()){
+                    chars[len]=c;
                     len++;
                 }
             }
