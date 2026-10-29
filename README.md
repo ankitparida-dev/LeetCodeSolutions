@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0706-design-hashmap) |
+| [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
 | [0901-online-stock-span](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
@@ -969,11 +970,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
+| [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
+| [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
 ## Treap
 |  |
 | ------- |
