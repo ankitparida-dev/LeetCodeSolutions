@@ -1,29 +1,12 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-        int lps[]=new int[s.length()];
-        int i=1;
-        int j=0;
-        while(i<s.length()){
-            if(s.charAt(i)==s.charAt(j)){
-                lps[i]=j+1;
-                i++;
-                j++;
-            }
-            else{
-                if(j!=0){
-                    j=lps[j-1];
-                }
-                else{
-                    i++;
-                }
-            }
-        }
-        if(s.length()-lps[s.length()-1]!=s.length()){
-            int diff=s.length()-lps[s.length()-1];
-            if(s.length()%diff==0){
-                return true;
-            }
-        }
-        return false;
+        // Step 1: Double the string
+        String doubled = s + s;
+        
+        // Step 2: Remove the first and last character to prevent matching s itself from the exact middle
+        String sub = doubled.substring(1, doubled.length() - 1);
+        
+        // Step 3: Check if the modified string contains the original string
+        return sub.contains(s);
     }
 }
