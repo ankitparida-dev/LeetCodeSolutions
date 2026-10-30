@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0495-teemo-attacking) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
@@ -996,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
