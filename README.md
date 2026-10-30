@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0682-baseball-game) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0706-design-hashmap) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0973-k-closest-points-to-origin) |
@@ -797,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
