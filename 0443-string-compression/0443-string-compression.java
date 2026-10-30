@@ -7,8 +7,8 @@ class Solution {
             int count=0;
             char ch=chars[i];
             while(i<n && ch==chars[i]){
-                count++;
-                i++;
+                 count++;
+                 i++;
             }
             chars[len]=ch;
             len++;
@@ -20,6 +20,6 @@ class Solution {
                 }
             }
         }
-        return len;
+        return len++;
     }
 }
