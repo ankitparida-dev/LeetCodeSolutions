@@ -8,7 +8,7 @@ class Solution {
             int ele[]=res.get(res.size()-1);
             int end=ele[1];
             if(start<=end){
-                ele[1]=Math.max(end,intervals[i][1]);
+                ele[1]=Math.max(intervals[i][1],end);
             }
             else{
                 res.add(intervals[i]);
