@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0874-walking-robot-simulation](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0874-walking-robot-simulation) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0859-buddy-strings) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
