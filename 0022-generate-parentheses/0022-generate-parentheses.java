@@ -1,5 +1,5 @@
 class Solution {
-    public void solve(List <String> res,String current,int open,int close,int n){
+    public void solve(List<String> res,String current,int open,int close,int n){
         if(current.length()==2*n){
             res.add(current);
             return;
