@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
