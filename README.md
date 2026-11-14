@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0733-flood-fill) |
 ## Union-Find
@@ -1103,4 +1106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
