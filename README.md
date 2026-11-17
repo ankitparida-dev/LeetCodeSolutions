@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0733-flood-fill) |
