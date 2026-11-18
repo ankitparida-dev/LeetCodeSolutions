@@ -1128,4 +1128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
