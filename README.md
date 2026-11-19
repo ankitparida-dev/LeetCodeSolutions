@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0733-flood-fill) |
@@ -1127,11 +1128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 ## Database
 |  |
 | ------- |
