@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0383-ransom-note) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1160,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1177,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
