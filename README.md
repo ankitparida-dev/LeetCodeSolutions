@@ -1203,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1179-reformat-department-table) |
 | [1587-bank-account-summary-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1587-bank-account-summary-ii) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## DP on Trees
