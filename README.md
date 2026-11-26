@@ -1205,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1179-reformat-department-table) |
 | [1587-bank-account-summary-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1587-bank-account-summary-ii) |
+| [1667-fix-names-in-a-table](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## DP on Trees
 |  |
