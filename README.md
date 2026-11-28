@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -1172,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankit087-acer/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
